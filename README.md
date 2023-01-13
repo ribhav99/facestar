@@ -44,3 +44,7 @@ If you do not need the full dataset but only selected sessions, you can download
 
 The dataset is released under [CC-NC 4.0 International license](https://github.com/facebookresearch/facestar/blob/main/LICENSE).
 
+
+# How to use
+run ```download.py``` to download the male and female train and test datasets.
+run ```concatenate_data.py``` to create train and test set that concatenates both male and female data
