@@ -14,10 +14,10 @@ def run_gaze_estimation(folder, f):
 args = []
 for f in os.listdir('train'):
     d = {'folder': 'train', 'f': f}
-    args.apped(d)
+    args.append(d)
 
 for f in os.listdir('test'):
     d = {'folder': 'test', 'f': f}
-    args.apped(d)
+    args.append(d)
 
 result = pqdm(args, run_gaze_estimation, n_jobs=multiprocessing.cpu_count(), argument_type='kwargs')
