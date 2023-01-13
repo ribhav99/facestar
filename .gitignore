@@ -2,3 +2,5 @@ female_speaker/*
 male_speaker/*
 test/*
 train/*
+gaze_direction_train/*
+gaze_direction_test/*
