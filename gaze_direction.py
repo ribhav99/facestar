@@ -1,6 +1,5 @@
 import os
-from pqdm.processes import pqdm
-import multiprocessing
+from tqdm import tqdm
 
 if not os.path.isdir('gaze_direction_train'):
     os.mkdir('gaze_direction_train')
@@ -12,12 +11,15 @@ def run_gaze_estimation(folder, f):
     os.system(cmd)
 
 args = []
+folder = 'train'
 for f in os.listdir('train'):
-    d = {'folder': 'train', 'f': f}
-    args.append(d)
+    cmd = f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --video {os.path.join(folder, f)} -o gaze_direction_{folder}'
+    args.append(cmd)
 
+folder = 'test'
 for f in os.listdir('test'):
-    d = {'folder': 'test', 'f': f}
-    args.append(d)
+    cmd = f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --video {os.path.join(folder, f)} -o gaze_direction_{folder}'
+    args.append(cmd)
 
-result = pqdm(args, run_gaze_estimation, n_jobs=multiprocessing.cpu_count(), argument_type='kwargs')
+for c in tqdm(args):
+    os.system(c)
