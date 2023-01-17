@@ -47,4 +47,5 @@ The dataset is released under [CC-NC 4.0 International license](https://github.c
 
 # How to use
 run ```download.py``` to download the male and female train and test datasets.
-run ```concatenate_data.py``` to create train and test set that concatenates both male and female data
+run ```concatenate_data.py``` to create train and test set that concatenates both male and female data and reduce FPS.
+run ```gaze_direction.py``` to create annotated videos to then be able to run gaze estimation.
