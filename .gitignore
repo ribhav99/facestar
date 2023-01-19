@@ -4,3 +4,4 @@ test/*
 train/*
 gaze_direction_train/*
 gaze_direction_test/*
+temp/*
