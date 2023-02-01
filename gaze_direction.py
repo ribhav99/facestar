@@ -1,5 +1,6 @@
 import os
 import torch
+from tqdm import tqdm
 
 if torch.cuda.is_available():
     print('Using GPU')
@@ -24,7 +25,7 @@ for f in os.listdir('test'):
     cmd = f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --fps 20 --device {device} --video {os.path.join(folder, f)} -o gaze_direction_{folder} --no-screen'
     args.append(cmd)
 
-# for c in tqdm(args):
-    # os.system(c)
-cmd = f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --fps 20 --device {device} --video train/female_session1_fps20.avi -o gaze_direction_train --no-screen'
-os.system(cmd)
+for c in tqdm(args):
+    os.system(c)
+# cmd = f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --fps 20 --device {device} --video train/female_session1_fps20.avi -o gaze_direction_train --no-screen'
+# os.system(cmd)
