@@ -38,14 +38,14 @@ else:
 # gaze_array = ' '.join([str(i) for i in gaze_array])
 # no_gaze_array = ' '.join([str(i) for i in no_gaze_array])
 
-startTime = time.time()
+# startTime = time.time()
 
-fps = 20
-cmd = f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --video train/female_session2_fps20.avi -o temp --fps {fps} --device {device} --no-screen'
-os.system(cmd)
+# fps = 20
+# cmd = f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --video train/female_session2_fps20.avi -o temp --fps {fps} --device {device} --no-screen'
+# os.system(cmd)
 
-executionTime = (time.time() - startTime)
-print('Execution time in seconds (control): ' + str(executionTime))
+# executionTime = (time.time() - startTime)
+# print('Execution time in seconds (control): ' + str(executionTime))
 
 
 
