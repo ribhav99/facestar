@@ -68,5 +68,7 @@ folder = 'youtube_data'
 for f in tqdm(os.listdir(folder)):
     os.rename(os.path.join(folder, f), os.path.join(folder, f.replace(" ", "_")))
     f = f.replace(" ", "_")
+    if not os.path.isfile(os.path.join("youtube_data_gaze_direction", f)):
+        continue
     cmd =  f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --video {os.path.join(folder, f)} -o ../gazeEstimation/assets/results/ --fps 20 --z_val 0.375 --device {device} --no-screen -e mp4 --gaze_vector_file --gaze_vector_file {os.path.join("youtube_data_gaze_direction", f)}'
     os.system(cmd)
