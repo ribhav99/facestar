@@ -1,10 +1,14 @@
 import os
 import torch
 import time
+from tqdm import tqdm
 
 if torch.cuda.is_available():
     print('Using GPU')
     device = 'cuda'
+elif torch.backends.mps.is_available():
+    print('Using MPS')
+    device = 'mps'
 else:
     print('Using CPU')
     device = 'cpu'
@@ -49,13 +53,20 @@ else:
 
 
 
-startTime = time.time()
+# startTime = time.time()
 
-gaze_array = '-0.0429782 -0.05548361 0.48281293 -0.04505863 -0.04348324 0.43431898 -0.0212611 -0.04447967 0.46616865 -0.02198714 -0.03692097 0.41674862'
-no_gaze_array = '-0.03726508 -0.3792474 0.48640499 -0.03627558 -0.00343993 0.45021358 -0.02198972 -0.05679698 0.45034036 -0.04086373 -0.04784575 0.40491297 -0.01574556 -0.06379504 0.46180735 0.00333104 -0.05674005 0.41613121 -0.05309963 -0.02858958  0.47478823 -0.05173415  0.00725219  0.43995286 -0.03407786 -0.05126658  0.45401565 -0.03578434 -0.02661728  0.41054727 -0.03289039 -0.06354449  0.47361507 -0.04204437 -0.05824631  0.42474653'
-fps = 20
-cmd = f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --video train/female_session2_fps20.avi -o temp --fps {fps} --device {device} --gaze_array {gaze_array} --no_gaze_array {no_gaze_array} --no-screen'
-os.system(cmd)
+# gaze_array = '-0.0429782 -0.05548361 0.48281293 -0.04505863 -0.04348324 0.43431898 -0.0212611 -0.04447967 0.46616865 -0.02198714 -0.03692097 0.41674862'
+# no_gaze_array = '-0.03726508 -0.3792474 0.48640499 -0.03627558 -0.00343993 0.45021358 -0.02198972 -0.05679698 0.45034036 -0.04086373 -0.04784575 0.40491297 -0.01574556 -0.06379504 0.46180735 0.00333104 -0.05674005 0.41613121 -0.05309963 -0.02858958  0.47478823 -0.05173415  0.00725219  0.43995286 -0.03407786 -0.05126658  0.45401565 -0.03578434 -0.02661728  0.41054727 -0.03289039 -0.06354449  0.47361507 -0.04204437 -0.05824631  0.42474653'
+# fps = 20
+# cmd = f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --video train/female_session2_fps20.avi -o temp --fps {fps} --device {device} --gaze_array {gaze_array} --no_gaze_array {no_gaze_array} --no-screen'
+# os.system(cmd)
 
-executionTime = (time.time() - startTime)
-print('Execution time in seconds for algo: ' + str(executionTime))
+# executionTime = (time.time() - startTime)
+# print('Execution time in seconds for algo: ' + str(executionTime))
+
+folder = 'youtube_data'
+for f in tqdm(os.listdir(folder)):
+    os.rename(os.path.join(folder, f), os.path.join(folder, f.replace(" ", "_")))
+    f = f.replace(" ", "_")
+    cmd =  f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --video {os.path.join(folder, f)} -o ../gazeEstimation/assets/results/ --fps 20 --z_val 0.375 --device {device} --no-screen -e mp4 --gaze_vector_file --gaze_vector_file {os.path.join("youtube_data_gaze_direction", f)}'
+    os.system(cmd)
