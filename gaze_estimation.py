@@ -71,5 +71,5 @@ for f in tqdm(os.listdir(folder)):
     if not os.path.isfile(os.path.join("youtube_data_gaze_direction", f)) or os.path.isfile(os.path.join('../gazeEstimation/assets/results/', f[:-3] + "avi")):
         continue
     cmd =  f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --video {os.path.join(folder, f)} -o ../gazeEstimation/assets/results/ --fps 20 --z_val 0.375 --device {device} --no-screen --gaze_vector_file {os.path.join("youtube_data_gaze_direction", f[:-3] + "txt")}'
+    print(f)
     os.system(cmd)
-    break
