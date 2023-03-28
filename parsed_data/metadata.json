@@ -1,0 +1,4744 @@
+{
+    "data": [
+        {
+            "name": "Stranger Things\u2019 Dacre Montgomery\u2019s Insane _Billy_ Audition Tape \uff5c GQ_0",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 191393,
+            "annotation_length": 217,
+            "audio_range": [
+                107604,
+                298997
+            ],
+            "video_range": [
+                122,
+                339
+            ]
+        },
+        {
+            "name": "Stranger Things\u2019 Dacre Montgomery\u2019s Insane _Billy_ Audition Tape \uff5c GQ_1",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 2843568,
+            "annotation_length": 3224,
+            "audio_range": [
+                363384,
+                3206952
+            ],
+            "video_range": [
+                412,
+                3636
+            ]
+        },
+        {
+            "name": "Stranger Things\u2019 Dacre Montgomery\u2019s Insane _Billy_ Audition Tape \uff5c GQ_2",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 2066525,
+            "annotation_length": 2343,
+            "audio_range": [
+                3381588,
+                5448113
+            ],
+            "video_range": [
+                3834,
+                6177
+            ]
+        },
+        {
+            "name": "Stranger Things\u2019 Dacre Montgomery\u2019s Insane _Billy_ Audition Tape \uff5c GQ_3",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 211680,
+            "annotation_length": 240,
+            "audio_range": [
+                5464872,
+                5676552
+            ],
+            "video_range": [
+                6196,
+                6436
+            ]
+        },
+        {
+            "name": "Self tape_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 1811775,
+            "annotation_length": 2465,
+            "audio_range": [
+                0,
+                1811775
+            ],
+            "video_range": [
+                0,
+                2465
+            ]
+        },
+        {
+            "name": "Self tape_1",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 1633171,
+            "annotation_length": 2222,
+            "audio_range": [
+                1813244,
+                3446415
+            ],
+            "video_range": [
+                2467,
+                4689
+            ]
+        },
+        {
+            "name": "Self tape_2",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 675466,
+            "annotation_length": 919,
+            "audio_range": [
+                3447149,
+                4122615
+            ],
+            "video_range": [
+                4690,
+                5609
+            ]
+        },
+        {
+            "name": "Self tape_3",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 713686,
+            "annotation_length": 971,
+            "audio_range": [
+                4124084,
+                4837770
+            ],
+            "video_range": [
+                5611,
+                6582
+            ]
+        },
+        {
+            "name": "Self tape_4",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 452760,
+            "annotation_length": 616,
+            "audio_range": [
+                4839240,
+                5292000
+            ],
+            "video_range": [
+                6584,
+                7200
+            ]
+        },
+        {
+            "name": "Self tape_5",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 329873,
+            "annotation_length": 451,
+            "audio_range": [
+                5292734,
+                5622607
+            ],
+            "video_range": [
+                7201,
+                7652
+            ]
+        },
+        {
+            "name": "Self tape \uff02London\uff02 from Suite life of Zack and Cody_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 2072557,
+            "annotation_length": 2820,
+            "audio_range": [
+                0,
+                2072557
+            ],
+            "video_range": [
+                0,
+                2820
+            ]
+        },
+        {
+            "name": "Self Taping (Audition) Example of 4 candidates_0",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 1489698,
+            "annotation_length": 1689,
+            "audio_range": [
+                89081,
+                1578779
+            ],
+            "video_range": [
+                101,
+                1790
+            ]
+        },
+        {
+            "name": "Self Taping (Audition) Example of 4 candidates_1",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 1042525,
+            "annotation_length": 1182,
+            "audio_range": [
+                1667861,
+                2710386
+            ],
+            "video_range": [
+                1891,
+                3073
+            ]
+        },
+        {
+            "name": "Self Taping (Audition) Example of 4 candidates_2",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 2991743,
+            "annotation_length": 3392,
+            "audio_range": [
+                2711268,
+                5703011
+            ],
+            "video_range": [
+                3074,
+                6466
+            ]
+        },
+        {
+            "name": "Self Taping (Audition) Example of 4 candidates_3",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 4218607,
+            "annotation_length": 4783,
+            "audio_range": [
+                5792093,
+                10010700
+            ],
+            "video_range": [
+                6567,
+                11350
+            ]
+        },
+        {
+            "name": "Self Taping (Audition) Example of 4 candidates_4",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 4228309,
+            "annotation_length": 4794,
+            "audio_range": [
+                10099781,
+                14328090
+            ],
+            "video_range": [
+                11451,
+                16245
+            ]
+        },
+        {
+            "name": "Harrison Green self tape reel 2021_0",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 1850436,
+            "annotation_length": 2098,
+            "audio_range": [
+                0,
+                1850436
+            ],
+            "video_range": [
+                0,
+                2098
+            ]
+        },
+        {
+            "name": "Harrison Green self tape reel 2021_1",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 1700495,
+            "annotation_length": 1928,
+            "audio_range": [
+                1851318,
+                3551813
+            ],
+            "video_range": [
+                2099,
+                4027
+            ]
+        },
+        {
+            "name": "Harrison Green self tape reel 2021_2",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 2309957,
+            "annotation_length": 2619,
+            "audio_range": [
+                3567690,
+                5877647
+            ],
+            "video_range": [
+                4045,
+                6664
+            ]
+        },
+        {
+            "name": "Harrison Green self tape reel 2021_3",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 2597489,
+            "annotation_length": 2945,
+            "audio_range": [
+                5896170,
+                8493659
+            ],
+            "video_range": [
+                6685,
+                9630
+            ]
+        },
+        {
+            "name": "Oxford School of Drama Audition Tape (I GOT IN!!)_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 2634975,
+            "annotation_length": 3585,
+            "audio_range": [
+                0,
+                2634975
+            ],
+            "video_range": [
+                0,
+                3585
+            ]
+        },
+        {
+            "name": "Oxford School of Drama Audition Tape (I GOT IN!!)_1",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 6227656,
+            "annotation_length": 8473,
+            "audio_range": [
+                2635709,
+                8863365
+            ],
+            "video_range": [
+                3586,
+                12059
+            ]
+        },
+        {
+            "name": "National Youth Theatre Self-Tape Audition_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 508621,
+            "annotation_length": 692,
+            "audio_range": [
+                31604,
+                540225
+            ],
+            "video_range": [
+                43,
+                735
+            ]
+        },
+        {
+            "name": "National Youth Theatre Self-Tape Audition_1",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 5588798,
+            "annotation_length": 7604,
+            "audio_range": [
+                540959,
+                6129757
+            ],
+            "video_range": [
+                736,
+                8340
+            ]
+        },
+        {
+            "name": "Nicholas Sparrow - Self Tape -The Rock_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 144059,
+            "annotation_length": 196,
+            "audio_range": [
+                0,
+                144059
+            ],
+            "video_range": [
+                0,
+                196
+            ]
+        },
+        {
+            "name": "Nicholas Sparrow - Self Tape -The Rock_1",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 3381001,
+            "annotation_length": 4600,
+            "audio_range": [
+                166109,
+                3547110
+            ],
+            "video_range": [
+                226,
+                4826
+            ]
+        },
+        {
+            "name": "Mikey Hurn self-tape for the role of Walter Hopkins_0",
+            "fps": 29.893,
+            "sr": 22050,
+            "audio_length": 4035007,
+            "annotation_length": 5474,
+            "audio_range": [
+                0,
+                4035007
+            ],
+            "video_range": [
+                0,
+                5474
+            ]
+        },
+        {
+            "name": "Self Tape example_0",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 688841,
+            "annotation_length": 781,
+            "audio_range": [
+                0,
+                688841
+            ],
+            "video_range": [
+                0,
+                781
+            ]
+        },
+        {
+            "name": "Self Tape example_1",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 393371,
+            "annotation_length": 446,
+            "audio_range": [
+                690606,
+                1083977
+            ],
+            "video_range": [
+                783,
+                1229
+            ]
+        },
+        {
+            "name": "Self Tape example_2",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 1021356,
+            "annotation_length": 1158,
+            "audio_range": [
+                1084859,
+                2106215
+            ],
+            "video_range": [
+                1230,
+                2388
+            ]
+        },
+        {
+            "name": "Dramatic Audition Self-Tape \u201cShameless\u201d_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 948007,
+            "annotation_length": 1292,
+            "audio_range": [
+                0,
+                948007
+            ],
+            "video_range": [
+                0,
+                1292
+            ]
+        },
+        {
+            "name": "A self tape I_m very very proud of_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 3143595,
+            "annotation_length": 4277,
+            "audio_range": [
+                0,
+                3143595
+            ],
+            "video_range": [
+                0,
+                4277
+            ]
+        },
+        {
+            "name": "A self tape I_m very very proud of_1",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 2169721,
+            "annotation_length": 2952,
+            "audio_range": [
+                3144329,
+                5314050
+            ],
+            "video_range": [
+                4278,
+                7230
+            ]
+        },
+        {
+            "name": "A self tape I_m very very proud of_2",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 219031,
+            "annotation_length": 298,
+            "audio_range": [
+                5314784,
+                5533815
+            ],
+            "video_range": [
+                7231,
+                7529
+            ]
+        },
+        {
+            "name": "Lilly Niehaus Self Tape Reel_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 176400,
+            "annotation_length": 240,
+            "audio_range": [
+                0,
+                176400
+            ],
+            "video_range": [
+                0,
+                240
+            ]
+        },
+        {
+            "name": "Lilly Niehaus Self Tape Reel_1",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 2409331,
+            "annotation_length": 3278,
+            "audio_range": [
+                177134,
+                2586465
+            ],
+            "video_range": [
+                241,
+                3519
+            ]
+        },
+        {
+            "name": "Lilly Niehaus Self Tape Reel_2",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 1017976,
+            "annotation_length": 1385,
+            "audio_range": [
+                2653349,
+                3671325
+            ],
+            "video_range": [
+                3610,
+                4995
+            ]
+        },
+        {
+            "name": "Lilly Niehaus Self Tape Reel_3",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 6096091,
+            "annotation_length": 8294,
+            "audio_range": [
+                3738209,
+                9834300
+            ],
+            "video_range": [
+                5086,
+                13380
+            ]
+        },
+        {
+            "name": "Lilly Niehaus Self Tape Reel_4",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 2689223,
+            "annotation_length": 3661,
+            "audio_range": [
+                9901184,
+                12590407
+            ],
+            "video_range": [
+                13471,
+                17132
+            ]
+        },
+        {
+            "name": "Self Tapes I BOOKED!- All American on THE CW- season 3 episode 7- scene 2_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1135975,
+            "annotation_length": 1544,
+            "audio_range": [
+                18393,
+                1154368
+            ],
+            "video_range": [
+                25,
+                1569
+            ]
+        },
+        {
+            "name": "Barb the Awkward Disaster - Self-tape Practice_0",
+            "fps": 59.94006309148265,
+            "sr": 22050,
+            "audio_length": 2800207,
+            "annotation_length": 7616,
+            "audio_range": [
+                0,
+                2800207
+            ],
+            "video_range": [
+                0,
+                7616
+            ]
+        },
+        {
+            "name": "George Diss -Self tape montage_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 550515,
+            "annotation_length": 749,
+            "audio_range": [
+                0,
+                550515
+            ],
+            "video_range": [
+                0,
+                749
+            ]
+        },
+        {
+            "name": "George Diss -Self tape montage_1",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 768076,
+            "annotation_length": 1045,
+            "audio_range": [
+                551984,
+                1320060
+            ],
+            "video_range": [
+                751,
+                1796
+            ]
+        },
+        {
+            "name": "George Diss -Self tape montage_2",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 618870,
+            "annotation_length": 842,
+            "audio_range": [
+                1320795,
+                1939665
+            ],
+            "video_range": [
+                1797,
+                2639
+            ]
+        },
+        {
+            "name": "SELF-TAPE THAT GOT ME BOOKED \uff5c Indie Short Film Audition_0",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 1102357,
+            "annotation_length": 1199,
+            "audio_range": [
+                0,
+                1102357
+            ],
+            "video_range": [
+                0,
+                1199
+            ]
+        },
+        {
+            "name": "Acting self tape 1_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 1705057,
+            "annotation_length": 2322,
+            "audio_range": [
+                36750,
+                1741807
+            ],
+            "video_range": [
+                50,
+                2372
+            ]
+        },
+        {
+            "name": "SHERRY HSU - Self Tape_0",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 4050221,
+            "annotation_length": 4404,
+            "audio_range": [
+                109440,
+                4159661
+            ],
+            "video_range": [
+                119,
+                4523
+            ]
+        },
+        {
+            "name": "SHERRY HSU - Self Tape_1",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 1764844,
+            "annotation_length": 1919,
+            "audio_range": [
+                4224958,
+                5989802
+            ],
+            "video_range": [
+                4594,
+                6513
+            ]
+        },
+        {
+            "name": "Mihail Krastev self-tape_0",
+            "fps": 29.95,
+            "sr": 22050,
+            "audio_length": 1719757,
+            "annotation_length": 2336,
+            "audio_range": [
+                0,
+                1719757
+            ],
+            "video_range": [
+                0,
+                2336
+            ]
+        },
+        {
+            "name": "ACTING SELF TAPE \uff5c\uff5c January 2023 \uff5c\uff5c Dream Girl Georgina Allerton Monologue_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 5997457,
+            "annotation_length": 8160,
+            "audio_range": [
+                0,
+                5997457
+            ],
+            "video_range": [
+                0,
+                8160
+            ]
+        },
+        {
+            "name": "DEMO REEL EXAMPLES 2020_0",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 787237,
+            "annotation_length": 856,
+            "audio_range": [
+                6437,
+                793674
+            ],
+            "video_range": [
+                7,
+                863
+            ]
+        },
+        {
+            "name": "DEMO REEL EXAMPLES 2020_1",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 613419,
+            "annotation_length": 667,
+            "audio_range": [
+                795513,
+                1408932
+            ],
+            "video_range": [
+                865,
+                1532
+            ]
+        },
+        {
+            "name": "DEMO REEL EXAMPLES 2020_2",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 583070,
+            "annotation_length": 634,
+            "audio_range": [
+                1418129,
+                2001199
+            ],
+            "video_range": [
+                1542,
+                2176
+            ]
+        },
+        {
+            "name": "DEMO REEL EXAMPLES 2020_3",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 606062,
+            "annotation_length": 659,
+            "audio_range": [
+                2003038,
+                2609100
+            ],
+            "video_range": [
+                2178,
+                2837
+            ]
+        },
+        {
+            "name": "DEMO REEL EXAMPLES 2020_4",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 1093487,
+            "annotation_length": 1189,
+            "audio_range": [
+                2610019,
+                3703506
+            ],
+            "video_range": [
+                2838,
+                4027
+            ]
+        },
+        {
+            "name": "DEMO REEL EXAMPLES 2020_5",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 652045,
+            "annotation_length": 709,
+            "audio_range": [
+                3706265,
+                4358310
+            ],
+            "video_range": [
+                4030,
+                4739
+            ]
+        },
+        {
+            "name": "DEMO REEL EXAMPLES 2020_6",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 713663,
+            "annotation_length": 776,
+            "audio_range": [
+                4369346,
+                5083009
+            ],
+            "video_range": [
+                4751,
+                5527
+            ]
+        },
+        {
+            "name": "DEMO REEL EXAMPLES 2020_7",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 721020,
+            "annotation_length": 784,
+            "audio_range": [
+                5084848,
+                5805868
+            ],
+            "video_range": [
+                5529,
+                6313
+            ]
+        },
+        {
+            "name": "DEMO REEL EXAMPLES 2020_8",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 767923,
+            "annotation_length": 835,
+            "audio_range": [
+                5806788,
+                6574711
+            ],
+            "video_range": [
+                6314,
+                7149
+            ]
+        },
+        {
+            "name": "DEMO REEL EXAMPLES 2020_9",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 1027270,
+            "annotation_length": 1117,
+            "audio_range": [
+                6586667,
+                7613937
+            ],
+            "video_range": [
+                7162,
+                8279
+            ]
+        },
+        {
+            "name": "DEMO REEL EXAMPLES 2020_10",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 1191891,
+            "annotation_length": 1296,
+            "audio_range": [
+                7615776,
+                8807667
+            ],
+            "video_range": [
+                8281,
+                9577
+            ]
+        },
+        {
+            "name": "DEMO REEL EXAMPLES 2020_11",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 675957,
+            "annotation_length": 735,
+            "audio_range": [
+                8810426,
+                9486383
+            ],
+            "video_range": [
+                9580,
+                10315
+            ]
+        },
+        {
+            "name": "DEMO REEL EXAMPLES 2020_12",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 113479,
+            "annotation_length": 124,
+            "audio_range": [
+                9500178,
+                9613657
+            ],
+            "video_range": [
+                10330,
+                10454
+            ]
+        },
+        {
+            "name": "CLYDE SELF-TAPE - ZACK FERNANDEZ_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 2557657,
+            "annotation_length": 3478,
+            "audio_range": [
+                0,
+                2557657
+            ],
+            "video_range": [
+                0,
+                3478
+            ]
+        },
+        {
+            "name": "Self-Tape Example 48 Hour Film Festival \uff5c How to do a self tape audition How to book your next movie_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1981334,
+            "annotation_length": 2693,
+            "audio_range": [
+                42672,
+                2024006
+            ],
+            "video_range": [
+                58,
+                2751
+            ]
+        },
+        {
+            "name": "Self-Tape Example 48 Hour Film Festival \uff5c How to do a self tape audition How to book your next movie_1",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 3616138,
+            "annotation_length": 4915,
+            "audio_range": [
+                2088751,
+                5704889
+            ],
+            "video_range": [
+                2839,
+                7754
+            ]
+        },
+        {
+            "name": "Euphoria AMI self-tape audition_0",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 2689111,
+            "annotation_length": 2924,
+            "audio_range": [
+                0,
+                2689111
+            ],
+            "video_range": [
+                0,
+                2924
+            ]
+        },
+        {
+            "name": "_Emma_ Self Tape (2)_0",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 5533668,
+            "annotation_length": 6274,
+            "audio_range": [
+                0,
+                5533668
+            ],
+            "video_range": [
+                0,
+                6274
+            ]
+        },
+        {
+            "name": "Self-Tape Audition_0",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 2778157,
+            "annotation_length": 3023,
+            "audio_range": [
+                0,
+                2778157
+            ],
+            "video_range": [
+                0,
+                3023
+            ]
+        },
+        {
+            "name": "Self tape 4\u29f816_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 1454565,
+            "annotation_length": 1979,
+            "audio_range": [
+                0,
+                1454565
+            ],
+            "video_range": [
+                0,
+                1979
+            ]
+        },
+        {
+            "name": "The Audition That Got Me ACCEPTED Into Drama School!_0",
+            "fps": 59.94006309148265,
+            "sr": 22050,
+            "audio_length": 3086776,
+            "annotation_length": 8391,
+            "audio_range": [
+                0,
+                3086776
+            ],
+            "video_range": [
+                0,
+                8391
+            ]
+        },
+        {
+            "name": "Therapist - Acting - Audition - Self-tape - by Thain Wesley_0",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 6324561,
+            "annotation_length": 6877,
+            "audio_range": [
+                0,
+                6324561
+            ],
+            "video_range": [
+                0,
+                6877
+            ]
+        },
+        {
+            "name": "Therapist - Acting - Audition - Self-tape - by Thain Wesley_1",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 3199976,
+            "annotation_length": 3482,
+            "audio_range": [
+                6325481,
+                9525457
+            ],
+            "video_range": [
+                6878,
+                10360
+            ]
+        },
+        {
+            "name": "Dramatic Monologue - Fleabag (self-tape style)_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 2756107,
+            "annotation_length": 3752,
+            "audio_range": [
+                0,
+                2756107
+            ],
+            "video_range": [
+                0,
+                3752
+            ]
+        },
+        {
+            "name": "CMTC 2019- 1st Runner Up for Child 4-11 Self- Tape Competition_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1065344,
+            "annotation_length": 1448,
+            "audio_range": [
+                19129,
+                1084473
+            ],
+            "video_range": [
+                26,
+                1474
+            ]
+        },
+        {
+            "name": "Nykki McGee - Self Tape Reel 2020_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 124214,
+            "annotation_length": 169,
+            "audio_range": [
+                0,
+                124214
+            ],
+            "video_range": [
+                0,
+                169
+            ]
+        },
+        {
+            "name": "Nykki McGee - Self Tape Reel 2020_1",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 7614457,
+            "annotation_length": 10360,
+            "audio_range": [
+                124950,
+                7739407
+            ],
+            "video_range": [
+                170,
+                10530
+            ]
+        },
+        {
+            "name": "Jake Williams\uff1a Self-Tape Reel_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1723827,
+            "annotation_length": 2343,
+            "audio_range": [
+                0,
+                1723827
+            ],
+            "video_range": [
+                0,
+                2343
+            ]
+        },
+        {
+            "name": "Jake Williams\uff1a Self-Tape Reel_1",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 852717,
+            "annotation_length": 1159,
+            "audio_range": [
+                1724562,
+                2577279
+            ],
+            "video_range": [
+                2344,
+                3503
+            ]
+        },
+        {
+            "name": "Jake Williams\uff1a Self-Tape Reel_2",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 2153496,
+            "annotation_length": 2927,
+            "audio_range": [
+                2578015,
+                4731511
+            ],
+            "video_range": [
+                3504,
+                6431
+            ]
+        },
+        {
+            "name": "Jake Williams\uff1a Self-Tape Reel_3",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1407461,
+            "annotation_length": 1913,
+            "audio_range": [
+                4732247,
+                6139708
+            ],
+            "video_range": [
+                6432,
+                8345
+            ]
+        },
+        {
+            "name": "Jake Williams\uff1a Self-Tape Reel_4",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 693062,
+            "annotation_length": 942,
+            "audio_range": [
+                6140444,
+                6833506
+            ],
+            "video_range": [
+                8346,
+                9288
+            ]
+        },
+        {
+            "name": "Amber Pursey, Self- tape_0",
+            "fps": 24.0,
+            "sr": 22050,
+            "audio_length": 3364462,
+            "annotation_length": 3662,
+            "audio_range": [
+                3675,
+                3368137
+            ],
+            "video_range": [
+                4,
+                3666
+            ]
+        },
+        {
+            "name": "Victoria Summer - Self Tape Audition - Mary Poppins_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 5968282,
+            "annotation_length": 8112,
+            "audio_range": [
+                0,
+                5968282
+            ],
+            "video_range": [
+                0,
+                8112
+            ]
+        },
+        {
+            "name": "Victoria Summer - Self Tape Audition - Mary Poppins_1",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 447555,
+            "annotation_length": 609,
+            "audio_range": [
+                5969018,
+                6416573
+            ],
+            "video_range": [
+                8113,
+                8722
+            ]
+        },
+        {
+            "name": "Audition to Booking   OZARK_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 306065,
+            "annotation_length": 416,
+            "audio_range": [
+                0,
+                306065
+            ],
+            "video_range": [
+                0,
+                416
+            ]
+        },
+        {
+            "name": "Audition to Booking   OZARK_1",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 2006349,
+            "annotation_length": 2727,
+            "audio_range": [
+                320780,
+                2327129
+            ],
+            "video_range": [
+                436,
+                3163
+            ]
+        },
+        {
+            "name": "Audition to Booking   OZARK_2",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 295766,
+            "annotation_length": 402,
+            "audio_range": [
+                2327865,
+                2623631
+            ],
+            "video_range": [
+                3164,
+                3566
+            ]
+        },
+        {
+            "name": "Audition to Booking   OZARK_3",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 222928,
+            "annotation_length": 303,
+            "audio_range": [
+                2624366,
+                2847294
+            ],
+            "video_range": [
+                3567,
+                3870
+            ]
+        },
+        {
+            "name": "Audition to Booking   OZARK_4",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 125811,
+            "annotation_length": 171,
+            "audio_range": [
+                3010627,
+                3136438
+            ],
+            "video_range": [
+                4092,
+                4263
+            ]
+        },
+        {
+            "name": "Audition to Booking   OZARK_5",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 242793,
+            "annotation_length": 330,
+            "audio_range": [
+                3193825,
+                3436618
+            ],
+            "video_range": [
+                4341,
+                4671
+            ]
+        },
+        {
+            "name": "Audition to Booking   OZARK_6",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 158919,
+            "annotation_length": 216,
+            "audio_range": [
+                3437353,
+                3596272
+            ],
+            "video_range": [
+                4672,
+                4888
+            ]
+        },
+        {
+            "name": "Audition to Booking   OZARK_7",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 140525,
+            "annotation_length": 191,
+            "audio_range": [
+                3691182,
+                3831707
+            ],
+            "video_range": [
+                5017,
+                5208
+            ]
+        },
+        {
+            "name": "Audition to Booking   OZARK_8",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 177312,
+            "annotation_length": 241,
+            "audio_range": [
+                3915581,
+                4092893
+            ],
+            "video_range": [
+                5322,
+                5563
+            ]
+        },
+        {
+            "name": "Audition to Booking   OZARK_9",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 122868,
+            "annotation_length": 167,
+            "audio_range": [
+                4293749,
+                4416617
+            ],
+            "video_range": [
+                5836,
+                6003
+            ]
+        },
+        {
+            "name": "Audition to Booking   OZARK_10",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 136111,
+            "annotation_length": 185,
+            "audio_range": [
+                4494605,
+                4630716
+            ],
+            "video_range": [
+                6109,
+                6294
+            ]
+        },
+        {
+            "name": "Audition to Booking   OZARK_11",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 118453,
+            "annotation_length": 161,
+            "audio_range": [
+                4752112,
+                4870565
+            ],
+            "video_range": [
+                6459,
+                6620
+            ]
+        },
+        {
+            "name": "Audition to Booking   OZARK_12",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 143468,
+            "annotation_length": 195,
+            "audio_range": [
+                5022127,
+                5165595
+            ],
+            "video_range": [
+                6826,
+                7021
+            ]
+        },
+        {
+            "name": "Self-Tape Audition Sample, \uff02Hallmark\uff02 Christmas Film Scene\uff1a Veterinarian_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1261785,
+            "annotation_length": 1715,
+            "audio_range": [
+                0,
+                1261785
+            ],
+            "video_range": [
+                0,
+                1715
+            ]
+        },
+        {
+            "name": "Self-Tape Audition Sample, \uff02Hallmark\uff02 Christmas Film Scene\uff1a Veterinarian_1",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1013843,
+            "annotation_length": 1378,
+            "audio_range": [
+                1262521,
+                2276364
+            ],
+            "video_range": [
+                1716,
+                3094
+            ]
+        },
+        {
+            "name": "Self-Tape Audition Sample, \uff02Hallmark\uff02 Christmas Film Scene\uff1a Veterinarian_2",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 186877,
+            "annotation_length": 254,
+            "audio_range": [
+                2277099,
+                2463976
+            ],
+            "video_range": [
+                3095,
+                3349
+            ]
+        },
+        {
+            "name": "Self-Tape Audition Sample, \uff02Hallmark\uff02 Christmas Film Scene\uff1a Veterinarian_3",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 114774,
+            "annotation_length": 156,
+            "audio_range": [
+                2464712,
+                2579486
+            ],
+            "video_range": [
+                3350,
+                3506
+            ]
+        },
+        {
+            "name": "Scottish Detective monologue \uff5c Self tape \uff5c _Solving murder mysteries aye__0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 2168211,
+            "annotation_length": 2947,
+            "audio_range": [
+                0,
+                2168211
+            ],
+            "video_range": [
+                0,
+                2947
+            ]
+        },
+        {
+            "name": "Self Tape Audition Example (Drama) #teenactor_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1676004,
+            "annotation_length": 2278,
+            "audio_range": [
+                0,
+                1676004
+            ],
+            "video_range": [
+                0,
+                2278
+            ]
+        },
+        {
+            "name": "Self Tape Audition Example (Drama) #teenactor_1",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 900539,
+            "annotation_length": 1224,
+            "audio_range": [
+                1676740,
+                2577279
+            ],
+            "video_range": [
+                2279,
+                3503
+            ]
+        },
+        {
+            "name": "Self Tape Demo Reel_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 2874516,
+            "annotation_length": 3907,
+            "audio_range": [
+                11036,
+                2885552
+            ],
+            "video_range": [
+                15,
+                3922
+            ]
+        },
+        {
+            "name": "Self Tape Demo Reel_1",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1183798,
+            "annotation_length": 1609,
+            "audio_range": [
+                2913510,
+                4097308
+            ],
+            "video_range": [
+                3960,
+                5569
+            ]
+        },
+        {
+            "name": "Self Tape Demo Reel_2",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1634804,
+            "annotation_length": 2222,
+            "audio_range": [
+                4098043,
+                5732847
+            ],
+            "video_range": [
+                5570,
+                7792
+            ]
+        },
+        {
+            "name": "Self Tape Demo Reel_3",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 544444,
+            "annotation_length": 740,
+            "audio_range": [
+                5733582,
+                6278026
+            ],
+            "video_range": [
+                7793,
+                8533
+            ]
+        },
+        {
+            "name": "Self Tape Demo Reel_4",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 732792,
+            "annotation_length": 996,
+            "audio_range": [
+                6278762,
+                7011554
+            ],
+            "video_range": [
+                8534,
+                9530
+            ]
+        },
+        {
+            "name": "Skai Jackson\u2019s audition tape for the role of Zoya Lott in the #GossipGirl revival (Viral)_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 537285,
+            "annotation_length": 731,
+            "audio_range": [
+                0,
+                537285
+            ],
+            "video_range": [
+                0,
+                731
+            ]
+        },
+        {
+            "name": "Skai Jackson\u2019s audition tape for the role of Zoya Lott in the #GossipGirl revival (Viral)_1",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 191835,
+            "annotation_length": 261,
+            "audio_range": [
+                611519,
+                803354
+            ],
+            "video_range": [
+                832,
+                1093
+            ]
+        },
+        {
+            "name": "Skai Jackson\u2019s audition tape for the role of Zoya Lott in the #GossipGirl revival (Viral)_2",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 258719,
+            "annotation_length": 352,
+            "audio_range": [
+                804090,
+                1062809
+            ],
+            "video_range": [
+                1094,
+                1446
+            ]
+        },
+        {
+            "name": "Skai Jackson\u2019s audition tape for the role of Zoya Lott in the #GossipGirl revival (Viral)_3",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 523321,
+            "annotation_length": 712,
+            "audio_range": [
+                1063544,
+                1586865
+            ],
+            "video_range": [
+                1447,
+                2159
+            ]
+        },
+        {
+            "name": "Natalia Dyer - Stranger Things \uff02Nancy Wheeler\uff02  Audition Tape_0",
+            "fps": 29.906396255850233,
+            "sr": 22050,
+            "audio_length": 833150,
+            "annotation_length": 1130,
+            "audio_range": [
+                92899,
+                926049
+            ],
+            "video_range": [
+                126,
+                1256
+            ]
+        },
+        {
+            "name": "IP-1110 WHEELER Self-Tape Cleo_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 1763857,
+            "annotation_length": 2400,
+            "audio_range": [
+                0,
+                1763857
+            ],
+            "video_range": [
+                0,
+                2400
+            ]
+        },
+        {
+            "name": "Acting Self Tape Audition Example - Resentful Daughter_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1920268,
+            "annotation_length": 2610,
+            "audio_range": [
+                0,
+                1920268
+            ],
+            "video_range": [
+                0,
+                2610
+            ]
+        },
+        {
+            "name": "Pull My Strings (Self Tape)_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 2447407,
+            "annotation_length": 3328,
+            "audio_range": [
+                0,
+                2447407
+            ],
+            "video_range": [
+                0,
+                3328
+            ]
+        },
+        {
+            "name": "Aussie self tape reel_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1536950,
+            "annotation_length": 2089,
+            "audio_range": [
+                0,
+                1536950
+            ],
+            "video_range": [
+                0,
+                2089
+            ]
+        },
+        {
+            "name": "Aussie self tape reel_1",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 2078451,
+            "annotation_length": 2825,
+            "audio_range": [
+                1537686,
+                3616137
+            ],
+            "video_range": [
+                2090,
+                4915
+            ]
+        },
+        {
+            "name": "Aussie self tape reel_2",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1714262,
+            "annotation_length": 2330,
+            "audio_range": [
+                3616873,
+                5331135
+            ],
+            "video_range": [
+                4916,
+                7246
+            ]
+        },
+        {
+            "name": "Aussie self tape reel_3",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 136386,
+            "annotation_length": 189,
+            "audio_range": [
+                5331871,
+                5468257
+            ],
+            "video_range": [
+                7247,
+                7436
+            ]
+        },
+        {
+            "name": "My Pretty Little Liars Audition Tape! \uff5c Shay Mitchell_0",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 4034586,
+            "annotation_length": 4387,
+            "audio_range": [
+                0,
+                4034586
+            ],
+            "video_range": [
+                0,
+                4387
+            ]
+        },
+        {
+            "name": "Self Tape Audition_0",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 7011018,
+            "annotation_length": 7949,
+            "audio_range": [
+                0,
+                7011018
+            ],
+            "video_range": [
+                0,
+                7949
+            ]
+        },
+        {
+            "name": "Self-Tape Audition by Louise Chiasson for Wallflower Drama Series_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 200654,
+            "annotation_length": 273,
+            "audio_range": [
+                0,
+                200654
+            ],
+            "video_range": [
+                0,
+                273
+            ]
+        },
+        {
+            "name": "Self-Tape Audition by Louise Chiasson for Wallflower Drama Series_1",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 742351,
+            "annotation_length": 1010,
+            "audio_range": [
+                201389,
+                943740
+            ],
+            "video_range": [
+                274,
+                1284
+            ]
+        },
+        {
+            "name": "Self-Tape Audition by Louise Chiasson for Wallflower Drama Series_2",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 752641,
+            "annotation_length": 1024,
+            "audio_range": [
+                944474,
+                1697115
+            ],
+            "video_range": [
+                1285,
+                2309
+            ]
+        },
+        {
+            "name": "Hannah Crowe Self tape-short horror film_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 5928220,
+            "annotation_length": 8066,
+            "audio_range": [
+                0,
+                5928220
+            ],
+            "video_range": [
+                0,
+                8066
+            ]
+        },
+        {
+            "name": "Stephanie Hsu \u2018Everything Everywhere All At Once\u2019 Audition_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 870975,
+            "annotation_length": 1185,
+            "audio_range": [
+                0,
+                870975
+            ],
+            "video_range": [
+                0,
+                1185
+            ]
+        },
+        {
+            "name": "Stephanie Hsu \u2018Everything Everywhere All At Once\u2019 Audition_1",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 892289,
+            "annotation_length": 1214,
+            "audio_range": [
+                879060,
+                1771349
+            ],
+            "video_range": [
+                1196,
+                2410
+            ]
+        },
+        {
+            "name": "Stephanie Hsu \u2018Everything Everywhere All At Once\u2019 Audition_2",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 2834160,
+            "annotation_length": 3856,
+            "audio_range": [
+                1772085,
+                4606245
+            ],
+            "video_range": [
+                2411,
+                6267
+            ]
+        },
+        {
+            "name": "Allison Ungar Self Tape_0",
+            "fps": 24.0,
+            "sr": 22050,
+            "audio_length": 2046975,
+            "annotation_length": 2228,
+            "audio_range": [
+                90956,
+                2137931
+            ],
+            "video_range": [
+                99,
+                2327
+            ]
+        },
+        {
+            "name": "Allison Ungar Self Tape_1",
+            "fps": 24.0,
+            "sr": 22050,
+            "audio_length": 3294638,
+            "annotation_length": 3586,
+            "audio_range": [
+                2139768,
+                5434406
+            ],
+            "video_range": [
+                2329,
+                5915
+            ]
+        },
+        {
+            "name": "Libby Lee, Self Tape Reel (2021)_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 616545,
+            "annotation_length": 838,
+            "audio_range": [
+                0,
+                616545
+            ],
+            "video_range": [
+                0,
+                838
+            ]
+        },
+        {
+            "name": "Libby Lee, Self Tape Reel (2021)_1",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 391411,
+            "annotation_length": 532,
+            "audio_range": [
+                617281,
+                1008692
+            ],
+            "video_range": [
+                839,
+                1371
+            ]
+        },
+        {
+            "name": "Libby Lee, Self Tape Reel (2021)_2",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 674669,
+            "annotation_length": 917,
+            "audio_range": [
+                1009428,
+                1684097
+            ],
+            "video_range": [
+                1372,
+                2289
+            ]
+        },
+        {
+            "name": "Libby Lee, Self Tape Reel (2021)_3",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 567251,
+            "annotation_length": 771,
+            "audio_range": [
+                1684833,
+                2252084
+            ],
+            "video_range": [
+                2290,
+                3061
+            ]
+        },
+        {
+            "name": "Libby Lee, Self Tape Reel (2021)_4",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 462777,
+            "annotation_length": 629,
+            "audio_range": [
+                2252820,
+                2715597
+            ],
+            "video_range": [
+                3062,
+                3691
+            ]
+        },
+        {
+            "name": "Libby Lee, Self Tape Reel (2021)_5",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 566516,
+            "annotation_length": 770,
+            "audio_range": [
+                2716333,
+                3282849
+            ],
+            "video_range": [
+                3692,
+                4462
+            ]
+        },
+        {
+            "name": "Libby Lee, Self Tape Reel (2021)_6",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 425990,
+            "annotation_length": 579,
+            "audio_range": [
+                3283585,
+                3709575
+            ],
+            "video_range": [
+                4463,
+                5042
+            ]
+        },
+        {
+            "name": "Libby Lee, Self Tape Reel (2021)_7",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 728378,
+            "annotation_length": 990,
+            "audio_range": [
+                3710311,
+                4438689
+            ],
+            "video_range": [
+                5043,
+                6033
+            ]
+        },
+        {
+            "name": "Libby Lee, Self Tape Reel (2021)_8",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 320045,
+            "annotation_length": 435,
+            "audio_range": [
+                4439424,
+                4759469
+            ],
+            "video_range": [
+                6034,
+                6469
+            ]
+        },
+        {
+            "name": "Libby Lee, Self Tape Reel (2021)_9",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 294294,
+            "annotation_length": 400,
+            "audio_range": [
+                4760205,
+                5054499
+            ],
+            "video_range": [
+                6470,
+                6870
+            ]
+        },
+        {
+            "name": "Libby Lee, Self Tape Reel (2021)_10",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 226606,
+            "annotation_length": 308,
+            "audio_range": [
+                5252412,
+                5479018
+            ],
+            "video_range": [
+                7139,
+                7447
+            ]
+        },
+        {
+            "name": "Neda Ghassemi- Self Tape Demo Reel_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 6107707,
+            "annotation_length": 8310,
+            "audio_range": [
+                0,
+                6107707
+            ],
+            "video_range": [
+                0,
+                8310
+            ]
+        },
+        {
+            "name": "Freya Callaghan - Self Tapes, March 2022_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 174929,
+            "annotation_length": 238,
+            "audio_range": [
+                0,
+                174929
+            ],
+            "video_range": [
+                0,
+                238
+            ]
+        },
+        {
+            "name": "Freya Callaghan - Self Tapes, March 2022_1",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 402781,
+            "annotation_length": 548,
+            "audio_range": [
+                200654,
+                603435
+            ],
+            "video_range": [
+                273,
+                821
+            ]
+        },
+        {
+            "name": "Freya Callaghan - Self Tapes, March 2022_2",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 715889,
+            "annotation_length": 974,
+            "audio_range": [
+                623280,
+                1339169
+            ],
+            "video_range": [
+                848,
+                1822
+            ]
+        },
+        {
+            "name": "Freya Callaghan - Self Tapes, March 2022_3",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 886410,
+            "annotation_length": 1206,
+            "audio_range": [
+                1339905,
+                2226315
+            ],
+            "video_range": [
+                1823,
+                3029
+            ]
+        },
+        {
+            "name": "Freya Callaghan - Self Tapes, March 2022_4",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 746760,
+            "annotation_length": 1016,
+            "audio_range": [
+                2227050,
+                2973810
+            ],
+            "video_range": [
+                3030,
+                4046
+            ]
+        },
+        {
+            "name": "Freya Callaghan - Self Tapes, March 2022_5",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 778364,
+            "annotation_length": 1059,
+            "audio_range": [
+                2994390,
+                3772754
+            ],
+            "video_range": [
+                4074,
+                5133
+            ]
+        },
+        {
+            "name": "Freya Callaghan - Self Tapes, March 2022_6",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 933449,
+            "annotation_length": 1270,
+            "audio_range": [
+                3777165,
+                4710614
+            ],
+            "video_range": [
+                5139,
+                6409
+            ]
+        },
+        {
+            "name": "Freya Callaghan - Self Tapes, March 2022_7",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 956236,
+            "annotation_length": 1301,
+            "audio_range": [
+                4719434,
+                5675670
+            ],
+            "video_range": [
+                6421,
+                7722
+            ]
+        },
+        {
+            "name": "Freya Callaghan - Self Tapes, March 2022_8",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 590940,
+            "annotation_length": 804,
+            "audio_range": [
+                5694044,
+                6284984
+            ],
+            "video_range": [
+                7747,
+                8551
+            ]
+        },
+        {
+            "name": "Freya Callaghan - Self Tapes, March 2022_9",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 151411,
+            "annotation_length": 206,
+            "audio_range": [
+                6286454,
+                6437865
+            ],
+            "video_range": [
+                8553,
+                8759
+            ]
+        },
+        {
+            "name": "Ryan Johns - Self Tape Reel_0",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 1170414,
+            "annotation_length": 1327,
+            "audio_range": [
+                63504,
+                1233918
+            ],
+            "video_range": [
+                72,
+                1399
+            ]
+        },
+        {
+            "name": "Ryan Johns - Self Tape Reel_1",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 1631700,
+            "annotation_length": 1850,
+            "audio_range": [
+                1246265,
+                2877965
+            ],
+            "video_range": [
+                1413,
+                3263
+            ]
+        },
+        {
+            "name": "Ryan Johns - Self Tape Reel_2",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 1292130,
+            "annotation_length": 1465,
+            "audio_range": [
+                2880611,
+                4172741
+            ],
+            "video_range": [
+                3266,
+                4731
+            ]
+        },
+        {
+            "name": "Ryan Johns - Self Tape Reel_3",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 1918350,
+            "annotation_length": 2175,
+            "audio_range": [
+                4173624,
+                6091974
+            ],
+            "video_range": [
+                4732,
+                6907
+            ]
+        },
+        {
+            "name": "Degrassi High, Alex (self tape acting)_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 1939665,
+            "annotation_length": 2639,
+            "audio_range": [
+                0,
+                1939665
+            ],
+            "video_range": [
+                0,
+                2639
+            ]
+        },
+        {
+            "name": "Chernobyl - Actor - Self-tape - Thain Wesley_0",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 1477207,
+            "annotation_length": 1608,
+            "audio_range": [
+                0,
+                1477207
+            ],
+            "video_range": [
+                0,
+                1608
+            ]
+        },
+        {
+            "name": "SELF TAPE DEMO REEL- Lillian Johnson_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 4012365,
+            "annotation_length": 5459,
+            "audio_range": [
+                0,
+                4012365
+            ],
+            "video_range": [
+                0,
+                5459
+            ]
+        },
+        {
+            "name": "SELF TAPE DEMO REEL- Lillian Johnson_1",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 1212016,
+            "annotation_length": 1649,
+            "audio_range": [
+                4013834,
+                5225850
+            ],
+            "video_range": [
+                5461,
+                7110
+            ]
+        },
+        {
+            "name": "SELF TAPE DEMO REEL- Lillian Johnson_2",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 557865,
+            "annotation_length": 759,
+            "audio_range": [
+                5226584,
+                5784449
+            ],
+            "video_range": [
+                7111,
+                7870
+            ]
+        },
+        {
+            "name": "SELF TAPE DEMO REEL- Lillian Johnson_3",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 343245,
+            "annotation_length": 467,
+            "audio_range": [
+                5785920,
+                6129165
+            ],
+            "video_range": [
+                7872,
+                8339
+            ]
+        },
+        {
+            "name": "Sheriff Jessica Cooper Self-Tape Audition_0",
+            "fps": 59.94006309148265,
+            "sr": 22050,
+            "audio_length": 206741,
+            "annotation_length": 562,
+            "audio_range": [
+                0,
+                206741
+            ],
+            "video_range": [
+                0,
+                562
+            ]
+        },
+        {
+            "name": "Sheriff Jessica Cooper Self-Tape Audition_1",
+            "fps": 59.94006309148265,
+            "sr": 22050,
+            "audio_length": 5525737,
+            "annotation_length": 15021,
+            "audio_range": [
+                207109,
+                5732846
+            ],
+            "video_range": [
+                563,
+                15584
+            ]
+        },
+        {
+            "name": "Commercial Self Tape - People Store_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1895253,
+            "annotation_length": 2576,
+            "audio_range": [
+                0,
+                1895253
+            ],
+            "video_range": [
+                0,
+                2576
+            ]
+        },
+        {
+            "name": "\uff02Transfers\uff02 Audition Self-tape_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 5122215,
+            "annotation_length": 6969,
+            "audio_range": [
+                5880,
+                5128095
+            ],
+            "video_range": [
+                8,
+                6977
+            ]
+        },
+        {
+            "name": "\uff02Transfers\uff02 Audition Self-tape_1",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 474810,
+            "annotation_length": 646,
+            "audio_range": [
+                5139854,
+                5614664
+            ],
+            "video_range": [
+                6993,
+                7639
+            ]
+        },
+        {
+            "name": "\uff02Transfers\uff02 Audition Self-tape_2",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 2442404,
+            "annotation_length": 3323,
+            "audio_range": [
+                5615400,
+                8057804
+            ],
+            "video_range": [
+                7640,
+                10963
+            ]
+        },
+        {
+            "name": "Self Tape \uff5c Viola_s \uff02I left no ring with her\uff02 monologue \uff5c Twelfth Night_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 2204262,
+            "annotation_length": 2996,
+            "audio_range": [
+                0,
+                2204262
+            ],
+            "video_range": [
+                0,
+                2996
+            ]
+        },
+        {
+            "name": "CMTC 2019 - Child 4-11 Self-Tape Competition Winner_0",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 1499979,
+            "annotation_length": 1631,
+            "audio_range": [
+                213363,
+                1713342
+            ],
+            "video_range": [
+                232,
+                1863
+            ]
+        },
+        {
+            "name": "Delilah Self Tape Audition \uff02The After Party\uff02_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1208813,
+            "annotation_length": 1643,
+            "audio_range": [
+                92702,
+                1301515
+            ],
+            "video_range": [
+                126,
+                1769
+            ]
+        },
+        {
+            "name": "Delilah Self Tape Audition \uff02The After Party\uff02_1",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 218514,
+            "annotation_length": 297,
+            "audio_range": [
+                1302250,
+                1520764
+            ],
+            "video_range": [
+                1770,
+                2067
+            ]
+        },
+        {
+            "name": "dacre montgomery audition tape_0",
+            "fps": 29.83127109111361,
+            "sr": 22050,
+            "audio_length": 815290,
+            "annotation_length": 1103,
+            "audio_range": [
+                0,
+                815290
+            ],
+            "video_range": [
+                0,
+                1103
+            ]
+        },
+        {
+            "name": "Self-Tape\uff1a Grosse Pointe Blank_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 3726307,
+            "annotation_length": 5072,
+            "audio_range": [
+                0,
+                3726307
+            ],
+            "video_range": [
+                0,
+                5072
+            ]
+        },
+        {
+            "name": "Stefania self tape\uff1a Danielle Reading lines with her_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 1829415,
+            "annotation_length": 2489,
+            "audio_range": [
+                0,
+                1829415
+            ],
+            "video_range": [
+                0,
+                2489
+            ]
+        },
+        {
+            "name": "Rachel McAdams Audition Tape_0",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 148177,
+            "annotation_length": 168,
+            "audio_range": [
+                34397,
+                182574
+            ],
+            "video_range": [
+                39,
+                207
+            ]
+        },
+        {
+            "name": "Rachel McAdams Audition Tape_1",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 4058964,
+            "annotation_length": 4602,
+            "audio_range": [
+                246077,
+                4305041
+            ],
+            "video_range": [
+                279,
+                4881
+            ]
+        },
+        {
+            "name": "Rachel McAdams Audition Tape_2",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 114659,
+            "annotation_length": 130,
+            "audio_range": [
+                4441752,
+                4556411
+            ],
+            "video_range": [
+                5036,
+                5166
+            ]
+        },
+        {
+            "name": "Rachel McAdams Audition Tape_3",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 205364,
+            "annotation_length": 233,
+            "audio_range": [
+                4557293,
+                4762657
+            ],
+            "video_range": [
+                5167,
+                5400
+            ]
+        },
+        {
+            "name": "Self-Tape example_0",
+            "fps": 50.0,
+            "sr": 22050,
+            "audio_length": 1073834,
+            "annotation_length": 2435,
+            "audio_range": [
+                0,
+                1073834
+            ],
+            "video_range": [
+                0,
+                2435
+            ]
+        },
+        {
+            "name": "Self-Tape example_1",
+            "fps": 50.0,
+            "sr": 22050,
+            "audio_length": 1367541,
+            "annotation_length": 3101,
+            "audio_range": [
+                1074275,
+                2441816
+            ],
+            "video_range": [
+                2436,
+                5537
+            ]
+        },
+        {
+            "name": "Self-Tape example_2",
+            "fps": 50.0,
+            "sr": 22050,
+            "audio_length": 964025,
+            "annotation_length": 2186,
+            "audio_range": [
+                2443140,
+                3407165
+            ],
+            "video_range": [
+                5540,
+                7726
+            ]
+        },
+        {
+            "name": "Self-Tape example_3",
+            "fps": 50.0,
+            "sr": 22050,
+            "audio_length": 295912,
+            "annotation_length": 671,
+            "audio_range": [
+                3407606,
+                3703518
+            ],
+            "video_range": [
+                7727,
+                8398
+            ]
+        },
+        {
+            "name": "Self-Tape example_4",
+            "fps": 50.0,
+            "sr": 22050,
+            "audio_length": 697661,
+            "annotation_length": 1582,
+            "audio_range": [
+                3704400,
+                4402061
+            ],
+            "video_range": [
+                8400,
+                9982
+            ]
+        },
+        {
+            "name": "Self-Tape example_5",
+            "fps": 50.0,
+            "sr": 22050,
+            "audio_length": 1015182,
+            "annotation_length": 2302,
+            "audio_range": [
+                4402943,
+                5418125
+            ],
+            "video_range": [
+                9984,
+                12286
+            ]
+        },
+        {
+            "name": "Self-Tape example_6",
+            "fps": 50.0,
+            "sr": 22050,
+            "audio_length": 2908836,
+            "annotation_length": 6596,
+            "audio_range": [
+                5422095,
+                8330931
+            ],
+            "video_range": [
+                12295,
+                18891
+            ]
+        },
+        {
+            "name": "Self-Tape Audition Reel 2022_0",
+            "fps": 59.94006309148265,
+            "sr": 22050,
+            "audio_length": 217041,
+            "annotation_length": 590,
+            "audio_range": [
+                0,
+                217041
+            ],
+            "video_range": [
+                0,
+                590
+            ]
+        },
+        {
+            "name": "Self-Tape Audition Reel 2022_1",
+            "fps": 59.94006309148265,
+            "sr": 22050,
+            "audio_length": 247207,
+            "annotation_length": 672,
+            "audio_range": [
+                217409,
+                464616
+            ],
+            "video_range": [
+                591,
+                1263
+            ]
+        },
+        {
+            "name": "Self-Tape Audition Reel 2022_2",
+            "fps": 59.94006309148265,
+            "sr": 22050,
+            "audio_length": 333288,
+            "annotation_length": 906,
+            "audio_range": [
+                464984,
+                798272
+            ],
+            "video_range": [
+                1264,
+                2170
+            ]
+        },
+        {
+            "name": "Self-Tape Audition Reel 2022_3",
+            "fps": 59.94006309148265,
+            "sr": 22050,
+            "audio_length": 286936,
+            "annotation_length": 780,
+            "audio_range": [
+                798640,
+                1085576
+            ],
+            "video_range": [
+                2171,
+                2951
+            ]
+        },
+        {
+            "name": "Self-Tape Audition Reel 2022_4",
+            "fps": 59.94006309148265,
+            "sr": 22050,
+            "audio_length": 824023,
+            "annotation_length": 2240,
+            "audio_range": [
+                1085944,
+                1909967
+            ],
+            "video_range": [
+                2952,
+                5192
+            ]
+        },
+        {
+            "name": "Self-Tape Audition Reel 2022_5",
+            "fps": 59.94006309148265,
+            "sr": 22050,
+            "audio_length": 327035,
+            "annotation_length": 889,
+            "audio_range": [
+                1910335,
+                2237370
+            ],
+            "video_range": [
+                5193,
+                6082
+            ]
+        },
+        {
+            "name": "Self-Tape Audition Reel 2022_6",
+            "fps": 59.94006309148265,
+            "sr": 22050,
+            "audio_length": 287673,
+            "annotation_length": 782,
+            "audio_range": [
+                2237737,
+                2525410
+            ],
+            "video_range": [
+                6083,
+                6865
+            ]
+        },
+        {
+            "name": "Self-Tape Audition Reel 2022_7",
+            "fps": 59.94006309148265,
+            "sr": 22050,
+            "audio_length": 316366,
+            "annotation_length": 860,
+            "audio_range": [
+                2525778,
+                2842144
+            ],
+            "video_range": [
+                6866,
+                7726
+            ]
+        },
+        {
+            "name": "Self-Tape Audition Reel 2022_8",
+            "fps": 59.94006309148265,
+            "sr": 22050,
+            "audio_length": 391043,
+            "annotation_length": 1063,
+            "audio_range": [
+                2842512,
+                3233555
+            ],
+            "video_range": [
+                7727,
+                8790
+            ]
+        },
+        {
+            "name": "Self-tape showreel_0",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 739115,
+            "annotation_length": 838,
+            "audio_range": [
+                0,
+                739115
+            ],
+            "video_range": [
+                0,
+                838
+            ]
+        },
+        {
+            "name": "Self-tape showreel_1",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 812323,
+            "annotation_length": 921,
+            "audio_range": [
+                739997,
+                1552320
+            ],
+            "video_range": [
+                839,
+                1760
+            ]
+        },
+        {
+            "name": "Self-tape showreel_2",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 1748123,
+            "annotation_length": 1982,
+            "audio_range": [
+                1553202,
+                3301325
+            ],
+            "video_range": [
+                1761,
+                3743
+            ]
+        },
+        {
+            "name": "Self-tape showreel_3",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 655326,
+            "annotation_length": 743,
+            "audio_range": [
+                3302208,
+                3957534
+            ],
+            "video_range": [
+                3744,
+                4487
+            ]
+        },
+        {
+            "name": "Self-tape showreel_4",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 912871,
+            "annotation_length": 1035,
+            "audio_range": [
+                3958415,
+                4871286
+            ],
+            "video_range": [
+                4488,
+                5523
+            ]
+        },
+        {
+            "name": "Self-tape showreel_5",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 1771938,
+            "annotation_length": 2009,
+            "audio_range": [
+                4872168,
+                6644106
+            ],
+            "video_range": [
+                5524,
+                7533
+            ]
+        },
+        {
+            "name": "Self-tape showreel_6",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 417186,
+            "annotation_length": 473,
+            "audio_range": [
+                6644988,
+                7062174
+            ],
+            "video_range": [
+                7534,
+                8007
+            ]
+        },
+        {
+            "name": "Self-tape showreel_7",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 1042523,
+            "annotation_length": 1182,
+            "audio_range": [
+                7063056,
+                8105579
+            ],
+            "video_range": [
+                8008,
+                9190
+            ]
+        },
+        {
+            "name": "Self-tape showreel_8",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 209916,
+            "annotation_length": 238,
+            "audio_range": [
+                8106461,
+                8316377
+            ],
+            "video_range": [
+                9191,
+                9429
+            ]
+        },
+        {
+            "name": "Self-tape showreel_9",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 177282,
+            "annotation_length": 201,
+            "audio_range": [
+                8674470,
+                8851752
+            ],
+            "video_range": [
+                9835,
+                10036
+            ]
+        },
+        {
+            "name": "Self-tape showreel_10",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 261811,
+            "annotation_length": 297,
+            "audio_range": [
+                8927604,
+                9189415
+            ],
+            "video_range": [
+                10122,
+                10419
+            ]
+        },
+        {
+            "name": "CMTC 2019 - 12+ Winner of Self-Tape Competition_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 1763265,
+            "annotation_length": 2399,
+            "audio_range": [
+                0,
+                1763265
+            ],
+            "video_range": [
+                0,
+                2399
+            ]
+        },
+        {
+            "name": "Rebecca Schmautz Self Tape_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1297836,
+            "annotation_length": 1764,
+            "audio_range": [
+                0,
+                1297836
+            ],
+            "video_range": [
+                0,
+                1764
+            ]
+        },
+        {
+            "name": "Rebecca Schmautz Self Tape_1",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1613467,
+            "annotation_length": 2193,
+            "audio_range": [
+                1299307,
+                2912774
+            ],
+            "video_range": [
+                1766,
+                3959
+            ]
+        },
+        {
+            "name": "Rebecca Schmautz Self Tape_2",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1876124,
+            "annotation_length": 2550,
+            "audio_range": [
+                2914246,
+                4790370
+            ],
+            "video_range": [
+                3961,
+                6511
+            ]
+        },
+        {
+            "name": "Rebecca Schmautz Self Tape_3",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1293374,
+            "annotation_length": 1758,
+            "audio_range": [
+                4791842,
+                6085216
+            ],
+            "video_range": [
+                6513,
+                8271
+            ]
+        },
+        {
+            "name": "3 Minute Audition Monologue From Search Party \uff5c Day 24 of 31 Self Tape Challenge_0",
+            "fps": 24.0,
+            "sr": 22050,
+            "audio_length": 4182150,
+            "annotation_length": 4552,
+            "audio_range": [
+                6431,
+                4188581
+            ],
+            "video_range": [
+                7,
+                4559
+            ]
+        },
+        {
+            "name": "Madelaine Petsch audition for The Prom_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 2675399,
+            "annotation_length": 3640,
+            "audio_range": [
+                66150,
+                2741549
+            ],
+            "video_range": [
+                90,
+                3730
+            ]
+        },
+        {
+            "name": "Madelaine Petsch audition for The Prom_1",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 2099160,
+            "annotation_length": 2856,
+            "audio_range": [
+                2751105,
+                4850265
+            ],
+            "video_range": [
+                3743,
+                6599
+            ]
+        },
+        {
+            "name": "Emily Owens - Acting Selftape Reel_0",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 1699548,
+            "annotation_length": 1848,
+            "audio_range": [
+                184853,
+                1884401
+            ],
+            "video_range": [
+                201,
+                2049
+            ]
+        },
+        {
+            "name": "Emily Owens - Acting Selftape Reel_1",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 1268224,
+            "annotation_length": 1379,
+            "audio_range": [
+                1899115,
+                3167339
+            ],
+            "video_range": [
+                2065,
+                3444
+            ]
+        },
+        {
+            "name": "Emily Owens - Acting Selftape Reel_2",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 2071094,
+            "annotation_length": 2252,
+            "audio_range": [
+                3183893,
+                5254987
+            ],
+            "video_range": [
+                3462,
+                5714
+            ]
+        },
+        {
+            "name": "Self-Tape Demo Reel_0",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 2828901,
+            "annotation_length": 3076,
+            "audio_range": [
+                0,
+                2828901
+            ],
+            "video_range": [
+                0,
+                3076
+            ]
+        },
+        {
+            "name": "Self-Tape Demo Reel_1",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 3100567,
+            "annotation_length": 3374,
+            "audio_range": [
+                2830740,
+                5931307
+            ],
+            "video_range": [
+                3078,
+                6452
+            ]
+        },
+        {
+            "name": "Self Tape Showreel 2022_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 690901,
+            "annotation_length": 940,
+            "audio_range": [
+                91139,
+                782040
+            ],
+            "video_range": [
+                124,
+                1064
+            ]
+        },
+        {
+            "name": "Self Tape Showreel 2022_1",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 633569,
+            "annotation_length": 862,
+            "audio_range": [
+                782775,
+                1416344
+            ],
+            "video_range": [
+                1065,
+                1927
+            ]
+        },
+        {
+            "name": "Self Tape Showreel 2022_2",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 961380,
+            "annotation_length": 1308,
+            "audio_range": [
+                1429574,
+                2390954
+            ],
+            "video_range": [
+                1945,
+                3253
+            ]
+        },
+        {
+            "name": "Self Tape Showreel 2022_3",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 1081919,
+            "annotation_length": 1472,
+            "audio_range": [
+                2391690,
+                3473609
+            ],
+            "video_range": [
+                3254,
+                4726
+            ]
+        },
+        {
+            "name": "Self Tape Showreel 2022_4",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 712215,
+            "annotation_length": 969,
+            "audio_range": [
+                3497864,
+                4210079
+            ],
+            "video_range": [
+                4759,
+                5728
+            ]
+        },
+        {
+            "name": "Self Tape Showreel 2022_5",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 1031940,
+            "annotation_length": 1404,
+            "audio_range": [
+                4221104,
+                5253044
+            ],
+            "video_range": [
+                5743,
+                7147
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_0",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 221381,
+            "annotation_length": 251,
+            "audio_range": [
+                0,
+                221381
+            ],
+            "video_range": [
+                0,
+                251
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_1",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 170227,
+            "annotation_length": 193,
+            "audio_range": [
+                222263,
+                392490
+            ],
+            "video_range": [
+                252,
+                445
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_2",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 143766,
+            "annotation_length": 163,
+            "audio_range": [
+                393372,
+                537138
+            ],
+            "video_range": [
+                446,
+                609
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_3",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 291941,
+            "annotation_length": 331,
+            "audio_range": [
+                538020,
+                829961
+            ],
+            "video_range": [
+                610,
+                941
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_4",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 185220,
+            "annotation_length": 210,
+            "audio_range": [
+                882000,
+                1067220
+            ],
+            "video_range": [
+                1000,
+                1210
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_5",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 154350,
+            "annotation_length": 175,
+            "audio_range": [
+                1068102,
+                1222452
+            ],
+            "video_range": [
+                1211,
+                1386
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_6",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 150822,
+            "annotation_length": 171,
+            "audio_range": [
+                1223334,
+                1374156
+            ],
+            "video_range": [
+                1387,
+                1558
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_7",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 231084,
+            "annotation_length": 262,
+            "audio_range": [
+                1375038,
+                1606122
+            ],
+            "video_range": [
+                1559,
+                1821
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_8",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 156114,
+            "annotation_length": 177,
+            "audio_range": [
+                1607004,
+                1763118
+            ],
+            "video_range": [
+                1822,
+                1999
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_9",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 251370,
+            "annotation_length": 285,
+            "audio_range": [
+                1764000,
+                2015370
+            ],
+            "video_range": [
+                2000,
+                2285
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_10",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 201095,
+            "annotation_length": 228,
+            "audio_range": [
+                2016252,
+                2217347
+            ],
+            "video_range": [
+                2286,
+                2514
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_11",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 123481,
+            "annotation_length": 140,
+            "audio_range": [
+                2418443,
+                2541924
+            ],
+            "video_range": [
+                2742,
+                2882
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_12",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 301643,
+            "annotation_length": 342,
+            "audio_range": [
+                2765070,
+                3066713
+            ],
+            "video_range": [
+                3135,
+                3477
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_13",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 121717,
+            "annotation_length": 138,
+            "audio_range": [
+                3158441,
+                3280158
+            ],
+            "video_range": [
+                3581,
+                3719
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_14",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 179046,
+            "annotation_length": 203,
+            "audio_range": [
+                3281040,
+                3460086
+            ],
+            "video_range": [
+                3720,
+                3923
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_15",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 233729,
+            "annotation_length": 265,
+            "audio_range": [
+                3460968,
+                3694697
+            ],
+            "video_range": [
+                3924,
+                4189
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_16",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 297234,
+            "annotation_length": 337,
+            "audio_range": [
+                3695579,
+                3992813
+            ],
+            "video_range": [
+                4190,
+                4527
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_17",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 255780,
+            "annotation_length": 290,
+            "audio_range": [
+                3993695,
+                4249475
+            ],
+            "video_range": [
+                4528,
+                4818
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_18",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 307817,
+            "annotation_length": 349,
+            "audio_range": [
+                4338558,
+                4646375
+            ],
+            "video_range": [
+                4919,
+                5268
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_19",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 148176,
+            "annotation_length": 168,
+            "audio_range": [
+                4647258,
+                4795434
+            ],
+            "video_range": [
+                5269,
+                5437
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_20",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 312228,
+            "annotation_length": 354,
+            "audio_range": [
+                4796315,
+                5108543
+            ],
+            "video_range": [
+                5438,
+                5792
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_21",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 294587,
+            "annotation_length": 334,
+            "audio_range": [
+                5211738,
+                5506325
+            ],
+            "video_range": [
+                5909,
+                6243
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_22",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 164051,
+            "annotation_length": 186,
+            "audio_range": [
+                5507208,
+                5671259
+            ],
+            "video_range": [
+                6244,
+                6430
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_23",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 124363,
+            "annotation_length": 141,
+            "audio_range": [
+                5672141,
+                5796504
+            ],
+            "video_range": [
+                6431,
+                6572
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_24",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 193159,
+            "annotation_length": 219,
+            "audio_range": [
+                5903225,
+                6096384
+            ],
+            "video_range": [
+                6693,
+                6912
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_25",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 243432,
+            "annotation_length": 276,
+            "audio_range": [
+                6097265,
+                6340697
+            ],
+            "video_range": [
+                6913,
+                7189
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_26",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 243432,
+            "annotation_length": 276,
+            "audio_range": [
+                6341579,
+                6585011
+            ],
+            "video_range": [
+                7190,
+                7466
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_27",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 126127,
+            "annotation_length": 143,
+            "audio_range": [
+                6585893,
+                6712020
+            ],
+            "video_range": [
+                7467,
+                7610
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_28",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 136709,
+            "annotation_length": 155,
+            "audio_range": [
+                6757884,
+                6894593
+            ],
+            "video_range": [
+                7662,
+                7817
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_29",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 202861,
+            "annotation_length": 230,
+            "audio_range": [
+                6895475,
+                7098336
+            ],
+            "video_range": [
+                7818,
+                8048
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_30",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 218736,
+            "annotation_length": 248,
+            "audio_range": [
+                7099218,
+                7317954
+            ],
+            "video_range": [
+                8049,
+                8297
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_31",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 250488,
+            "annotation_length": 284,
+            "audio_range": [
+                7318836,
+                7569324
+            ],
+            "video_range": [
+                8298,
+                8582
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_32",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 127889,
+            "annotation_length": 145,
+            "audio_range": [
+                7570206,
+                7698095
+            ],
+            "video_range": [
+                8583,
+                8728
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_33",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 123481,
+            "annotation_length": 140,
+            "audio_range": [
+                7698977,
+                7822458
+            ],
+            "video_range": [
+                8729,
+                8869
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_34",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 185219,
+            "annotation_length": 210,
+            "audio_range": [
+                7823340,
+                8008559
+            ],
+            "video_range": [
+                8870,
+                9080
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_35",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 119069,
+            "annotation_length": 135,
+            "audio_range": [
+                8087940,
+                8207009
+            ],
+            "video_range": [
+                9170,
+                9305
+            ]
+        },
+        {
+            "name": "SELF TAPE SHOWREEL_36",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 237116,
+            "annotation_length": 269,
+            "audio_range": [
+                8207891,
+                8445007
+            ],
+            "video_range": [
+                9306,
+                9575
+            ]
+        },
+        {
+            "name": "Self Tape Reel_0",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 1260866,
+            "annotation_length": 1371,
+            "audio_range": [
+                28509,
+                1289375
+            ],
+            "video_range": [
+                31,
+                1402
+            ]
+        },
+        {
+            "name": "Self Tape Reel_1",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 878284,
+            "annotation_length": 955,
+            "audio_range": [
+                1291214,
+                2169498
+            ],
+            "video_range": [
+                1404,
+                2359
+            ]
+        },
+        {
+            "name": "Self Tape Reel_2",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 590428,
+            "annotation_length": 642,
+            "audio_range": [
+                2171337,
+                2761765
+            ],
+            "video_range": [
+                2361,
+                3003
+            ]
+        },
+        {
+            "name": "Self Tape Reel_3",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 1328002,
+            "annotation_length": 1444,
+            "audio_range": [
+                2763604,
+                4091606
+            ],
+            "video_range": [
+                3005,
+                4449
+            ]
+        },
+        {
+            "name": "Self Tape Reel_4",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 2301078,
+            "annotation_length": 2503,
+            "audio_range": [
+                4093445,
+                6394523
+            ],
+            "video_range": [
+                4451,
+                6954
+            ]
+        },
+        {
+            "name": "Phillip Lanos \uff5c Self tape \uff5c Audition_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 5308169,
+            "annotation_length": 7222,
+            "audio_range": [
+                0,
+                5308169
+            ],
+            "video_range": [
+                0,
+                7222
+            ]
+        },
+        {
+            "name": "Phillip Lanos \uff5c Self tape \uff5c Audition_1",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 2130030,
+            "annotation_length": 2898,
+            "audio_range": [
+                5337570,
+                7467600
+            ],
+            "video_range": [
+                7262,
+                10160
+            ]
+        },
+        {
+            "name": "Self tape For All Mankind_Iryna_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 4188540,
+            "annotation_length": 5693,
+            "audio_range": [
+                735,
+                4189275
+            ],
+            "video_range": [
+                1,
+                5694
+            ]
+        },
+        {
+            "name": "Self-tape Dramatic Acting Reel - Rose Eshay_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 2071829,
+            "annotation_length": 2816,
+            "audio_range": [
+                38258,
+                2110087
+            ],
+            "video_range": [
+                52,
+                2868
+            ]
+        },
+        {
+            "name": "Self-tape Dramatic Acting Reel - Rose Eshay_1",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 2327866,
+            "annotation_length": 3164,
+            "audio_range": [
+                2110823,
+                4438689
+            ],
+            "video_range": [
+                2869,
+                6033
+            ]
+        },
+        {
+            "name": "Self-tape Dramatic Acting Reel - Rose Eshay_2",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 575345,
+            "annotation_length": 782,
+            "audio_range": [
+                4448989,
+                5024334
+            ],
+            "video_range": [
+                6047,
+                6829
+            ]
+        },
+        {
+            "name": "Self-tape Dramatic Acting Reel - Rose Eshay_3",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 2550793,
+            "annotation_length": 3467,
+            "audio_range": [
+                5035370,
+                7586163
+            ],
+            "video_range": [
+                6844,
+                10311
+            ]
+        },
+        {
+            "name": "Child Actor Farts During Self tape_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1807700,
+            "annotation_length": 2457,
+            "audio_range": [
+                0,
+                1807700
+            ],
+            "video_range": [
+                0,
+                2457
+            ]
+        },
+        {
+            "name": "My Audition Tape for The National Youth Theatre 2020 - Great News Today!!_0",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 5555719,
+            "annotation_length": 6299,
+            "audio_range": [
+                11465,
+                5567184
+            ],
+            "video_range": [
+                13,
+                6312
+            ]
+        },
+        {
+            "name": "Dramatic Self Tape_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 3064807,
+            "annotation_length": 4168,
+            "audio_range": [
+                0,
+                3064807
+            ],
+            "video_range": [
+                0,
+                4168
+            ]
+        },
+        {
+            "name": "Memory \uff5c Theatrical Audition \uff5c Acting in Hollywood \uff5c Crying on Camera Example Self Tape_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 2341844,
+            "annotation_length": 3183,
+            "audio_range": [
+                0,
+                2341844
+            ],
+            "video_range": [
+                0,
+                3183
+            ]
+        },
+        {
+            "name": "Memory \uff5c Theatrical Audition \uff5c Acting in Hollywood \uff5c Crying on Camera Example Self Tape_1",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1173498,
+            "annotation_length": 1595,
+            "audio_range": [
+                2343315,
+                3516813
+            ],
+            "video_range": [
+                3185,
+                4780
+            ]
+        },
+        {
+            "name": "Kelsey Boze Self Tape Reel_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 9436665,
+            "annotation_length": 12839,
+            "audio_range": [
+                0,
+                9436665
+            ],
+            "video_range": [
+                0,
+                12839
+            ]
+        },
+        {
+            "name": "NicholasZoto  REEL_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 257984,
+            "annotation_length": 351,
+            "audio_range": [
+                0,
+                257984
+            ],
+            "video_range": [
+                0,
+                351
+            ]
+        },
+        {
+            "name": "NicholasZoto  REEL_1",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 1794870,
+            "annotation_length": 2442,
+            "audio_range": [
+                258719,
+                2053589
+            ],
+            "video_range": [
+                352,
+                2794
+            ]
+        },
+        {
+            "name": "NicholasZoto  REEL_2",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 1283310,
+            "annotation_length": 1746,
+            "audio_range": [
+                2054325,
+                3337635
+            ],
+            "video_range": [
+                2795,
+                4541
+            ]
+        },
+        {
+            "name": "NicholasZoto  REEL_3",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 366030,
+            "annotation_length": 498,
+            "audio_range": [
+                3338370,
+                3704400
+            ],
+            "video_range": [
+                4542,
+                5040
+            ]
+        },
+        {
+            "name": "NicholasZoto  REEL_4",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 1516306,
+            "annotation_length": 2063,
+            "audio_range": [
+                3705134,
+                5221440
+            ],
+            "video_range": [
+                5041,
+                7104
+            ]
+        },
+        {
+            "name": "NicholasZoto  REEL_5",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 911401,
+            "annotation_length": 1240,
+            "audio_range": [
+                5222174,
+                6133575
+            ],
+            "video_range": [
+                7105,
+                8345
+            ]
+        },
+        {
+            "name": "NicholasZoto  REEL_6",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 436591,
+            "annotation_length": 594,
+            "audio_range": [
+                6134309,
+                6570900
+            ],
+            "video_range": [
+                8346,
+                8940
+            ]
+        },
+        {
+            "name": "NicholasZoto  REEL_7",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 328545,
+            "annotation_length": 447,
+            "audio_range": [
+                6571634,
+                6900179
+            ],
+            "video_range": [
+                8941,
+                9388
+            ]
+        },
+        {
+            "name": "NicholasZoto  REEL_8",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 771750,
+            "annotation_length": 1050,
+            "audio_range": [
+                6900915,
+                7672665
+            ],
+            "video_range": [
+                9389,
+                10439
+            ]
+        },
+        {
+            "name": "TV Audition Scene Day 30 of 31 Self-Tape Challenge_0",
+            "fps": 24.02,
+            "sr": 22050,
+            "audio_length": 4189523,
+            "annotation_length": 4564,
+            "audio_range": [
+                0,
+                4189523
+            ],
+            "video_range": [
+                0,
+                4564
+            ]
+        },
+        {
+            "name": "My audition tape break up scene show reel_0",
+            "fps": 50.0,
+            "sr": 22050,
+            "audio_length": 5556457,
+            "annotation_length": 12600,
+            "audio_range": [
+                0,
+                5556457
+            ],
+            "video_range": [
+                0,
+                12600
+            ]
+        },
+        {
+            "name": "\u2018SWEATER\u2019 DANIEL SELF-TAPE - ZACK FERNANDEZ_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 507173,
+            "annotation_length": 691,
+            "audio_range": [
+                0,
+                507173
+            ],
+            "video_range": [
+                0,
+                691
+            ]
+        },
+        {
+            "name": "Dramatic Self Tape Reel_0",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 2976750,
+            "annotation_length": 3375,
+            "audio_range": [
+                0,
+                2976750
+            ],
+            "video_range": [
+                0,
+                3375
+            ]
+        },
+        {
+            "name": "Dramatic Self Tape Reel_1",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 1163359,
+            "annotation_length": 1319,
+            "audio_range": [
+                2977631,
+                4140990
+            ],
+            "video_range": [
+                3376,
+                4695
+            ]
+        },
+        {
+            "name": "Dramatic Self Tape Reel_2",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 3578273,
+            "annotation_length": 4057,
+            "audio_range": [
+                4141872,
+                7720145
+            ],
+            "video_range": [
+                4696,
+                8753
+            ]
+        },
+        {
+            "name": "Dramatic Self Tape Reel_3",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 2399041,
+            "annotation_length": 2720,
+            "audio_range": [
+                7721027,
+                10120068
+            ],
+            "video_range": [
+                8754,
+                11474
+            ]
+        },
+        {
+            "name": "Monologue Self Tape- Savannah, Dear John_0",
+            "fps": 29.865,
+            "sr": 22050,
+            "audio_length": 1961722,
+            "annotation_length": 2657,
+            "audio_range": [
+                0,
+                1961722
+            ],
+            "video_range": [
+                0,
+                2657
+            ]
+        },
+        {
+            "name": "Self-tape_0",
+            "fps": 24.0,
+            "sr": 22050,
+            "audio_length": 2248957,
+            "annotation_length": 2448,
+            "audio_range": [
+                0,
+                2248957
+            ],
+            "video_range": [
+                0,
+                2448
+            ]
+        },
+        {
+            "name": "IP-1110 \u29f8 WHEELER \u29f8 Self-tape Audition \u29f8 Captain Townes Tk1_0",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 239022,
+            "annotation_length": 271,
+            "audio_range": [
+                0,
+                239022
+            ],
+            "video_range": [
+                0,
+                271
+            ]
+        },
+        {
+            "name": "IP-1110 \u29f8 WHEELER \u29f8 Self-tape Audition \u29f8 Captain Townes Tk1_1",
+            "fps": 25.0,
+            "sr": 22050,
+            "audio_length": 2368170,
+            "annotation_length": 2685,
+            "audio_range": [
+                263718,
+                2631888
+            ],
+            "video_range": [
+                299,
+                2984
+            ]
+        },
+        {
+            "name": "Self Tape - Elaine Morillo - Undisclosed Role (RAYN)_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 1300215,
+            "annotation_length": 1769,
+            "audio_range": [
+                0,
+                1300215
+            ],
+            "video_range": [
+                0,
+                1769
+            ]
+        },
+        {
+            "name": "Julia Senise Self Tape_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 117717,
+            "annotation_length": 160,
+            "audio_range": [
+                18393,
+                136110
+            ],
+            "video_range": [
+                25,
+                185
+            ]
+        },
+        {
+            "name": "Julia Senise Self Tape_1",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 1879067,
+            "annotation_length": 2554,
+            "audio_range": [
+                137582,
+                2016649
+            ],
+            "video_range": [
+                187,
+                2741
+            ]
+        },
+        {
+            "name": "Fabricio Suarez self-tape for Comedic Series_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 6619407,
+            "annotation_length": 8997,
+            "audio_range": [
+                152297,
+                6771704
+            ],
+            "video_range": [
+                207,
+                9204
+            ]
+        },
+        {
+            "name": "Self-Tape Audition Example Tasmania \uff5c How to Get an Agent in Hollywood and Los Angeles \uff5c Slate_0",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 5125865,
+            "annotation_length": 6967,
+            "audio_range": [
+                11036,
+                5136901
+            ],
+            "video_range": [
+                15,
+                6982
+            ]
+        },
+        {
+            "name": "Self-Tape Audition Example Tasmania \uff5c How to Get an Agent in Hollywood and Los Angeles \uff5c Slate_1",
+            "fps": 29.97002997002997,
+            "sr": 22050,
+            "audio_length": 277372,
+            "annotation_length": 377,
+            "audio_range": [
+                5137637,
+                5415009
+            ],
+            "video_range": [
+                6983,
+                7360
+            ]
+        },
+        {
+            "name": "Self-Tape Challenge - Deborah Lettner  - Final Destination_0",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 208740,
+            "annotation_length": 284,
+            "audio_range": [
+                66150,
+                274890
+            ],
+            "video_range": [
+                90,
+                374
+            ]
+        },
+        {
+            "name": "Self-Tape Challenge - Deborah Lettner  - Final Destination_1",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 654884,
+            "annotation_length": 891,
+            "audio_range": [
+                275625,
+                930509
+            ],
+            "video_range": [
+                375,
+                1266
+            ]
+        },
+        {
+            "name": "Self-Tape Challenge - Deborah Lettner  - Final Destination_2",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 718830,
+            "annotation_length": 978,
+            "audio_range": [
+                931244,
+                1650074
+            ],
+            "video_range": [
+                1267,
+                2245
+            ]
+        },
+        {
+            "name": "Self-Tape Challenge - Deborah Lettner  - Final Destination_3",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 1908060,
+            "annotation_length": 2596,
+            "audio_range": [
+                1650810,
+                3558870
+            ],
+            "video_range": [
+                2246,
+                4842
+            ]
+        },
+        {
+            "name": "Self-Tape Challenge - Deborah Lettner  - Final Destination_4",
+            "fps": 30.0,
+            "sr": 22050,
+            "audio_length": 2194711,
+            "annotation_length": 2986,
+            "audio_range": [
+                3559604,
+                5754315
+            ],
+            "video_range": [
+                4843,
+                7829
+            ]
+        },
+        {
+            "name": "Ronen Rubinstein Self Tape_0",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 2037066,
+            "annotation_length": 2215,
+            "audio_range": [
+                57939,
+                2095005
+            ],
+            "video_range": [
+                63,
+                2278
+            ]
+        },
+        {
+            "name": "Ronen Rubinstein Self Tape_1",
+            "fps": 23.976023976023978,
+            "sr": 22050,
+            "audio_length": 1767604,
+            "annotation_length": 1922,
+            "audio_range": [
+                2096844,
+                3864448
+            ],
+            "video_range": [
+                2280,
+                4202
+            ]
+        }
+    ]
+}
