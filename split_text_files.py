@@ -23,6 +23,7 @@ for clip in metadata['data']:
         parsed_gaze_data = open(os.path.join(parsed_folder_name, 'split_text_files', clip['name'] + '.txt'))
         for i in lines:
             parsed_gaze_data.write(i)
+        parsed_gaze_data.close()
     except FileNotFoundError:
         print(f'{clip} not found')
 
