@@ -33,8 +33,10 @@ else:
 # cmd = f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --fps 20 --device {device} --video train/female_session1_fps20.avi -o gaze_direction_train --no-screen'
 # os.system(cmd)
 folder = 'youtube_data'
+save_folder = 'youtube_data_gaze_direction'
 for f in tqdm(os.listdir(folder)):
     os.rename(os.path.join(folder, f), os.path.join(folder, f.replace(" ", "_")))
     f = f.replace(" ", "_")
-    cmd =  f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --video {os.path.join(folder, f)} -o youtube_data_gaze_direction --fps 20 --z_val 0.375 --device {device} --no-screen -e mp4 --write_file'
-    os.system(cmd)
+    if not os.path.isfile(os.path.join(save_folder, f)):
+        cmd =  f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --video {os.path.join(folder, f)} -o {save_folder} --fps 20 --z_val 0.375 --device {device} --no-screen -e mp4 --write_file'
+        os.system(cmd)
