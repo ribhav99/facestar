@@ -27,6 +27,5 @@ for clip in metadata['data']:
     except FileNotFoundError:
         print(f'{clip} not found')
 
-# TODO: Perform clustering and gaze prediction using text files
-# TODO: Split Video Files 
-# TODO: Annotate video files using the text files from clustering
+# TODO: Split Video Files (original not gaze estimation ones)
+# TODO: Annotate split video files using the split text files
