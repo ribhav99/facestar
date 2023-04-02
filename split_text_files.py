@@ -1,9 +1,12 @@
 import json
 import os
+import cv2
+
 
 folder_name = 'youtube_gaze_direction'
 parsed_folder_name = 'parsed_data'
 metadata_file_path = 'parsed_data/metadata.json'
+video_format = '.mp4' # also change fourcc later in code
 
 if not os.path.isdir(os.path.join(parsed_folder_name, 'split_text_files')):
     os.mkdir(os.path.join(parsed_folder_name, 'split_text_files'))
@@ -24,8 +27,20 @@ for clip in metadata['data']:
         for i in lines:
             parsed_gaze_data.write(i)
         parsed_gaze_data.close()
+    
+    # Split Video Files (original not gaze estimation ones)
+        cap = cv2.VideoCapture(os.path.join(folder_name, original_name + video_format))
+        cap.set(cv2.CAP_PROP_POS_FRAMES, interval[0])
+        fourcc = cv2.VideoWriter_fourcc(*'mp4v')
+        out = cv2.VideoWriter(os.path.join('split_videos', clip['name'] + video_format), fourcc, int(clip['fps']))
+
+        for _ in range(interval[1] - interval[0] + 1):
+            ret, frame = cap.read()
+            if not ret:
+                print(f"couldn't read frame from video {original_name} or {clip['name']}")
+            out.write(frame)
+        cap.release()
+        out.release()
+    
     except FileNotFoundError:
         print(f'{clip} not found')
-
-# TODO: Split Video Files (original not gaze estimation ones)
-# TODO: Annotate split video files using the split text files
