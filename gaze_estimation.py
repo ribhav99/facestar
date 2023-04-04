@@ -95,6 +95,5 @@ for clip in tqdm(metadata['data']):
         continue
     cmd =  f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --video {os.path.join(parsed_folder_name, videos, name + video_format)} -o {os.path.join(parsed_folder_name, split_video_folder)} --fps {int(float(clip["fps"]))} --z_val 0.375 --device {device} --no-screen --gaze_vector_file {os.path.join(parsed_folder_name, text_files, name + ".txt")}'
     os.system(cmd)
-    break
-    
+  
     
