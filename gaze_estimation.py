@@ -90,10 +90,11 @@ metadata = json.load(open(metadata_file_path, 'r'))
 
 # Get text file name and video name and run gaze estimation algo
 for clip in tqdm(metadata['data']):
-    name = clip['name'].replace(" ", "_") + video_format
-    if os.path.isfile(os.path.join(parsed_folder_name, split_video_folder, name)):
+    name = clip['name'].replace(" ", "_") 
+    if os.path.isfile(os.path.join(parsed_folder_name, split_video_folder, name + video_format)):
         continue
-    cmd =  f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --video {os.path.join(parsed_folder_name, videos, name + video_format)} -o {os.path.join(parsed_folder_name, split_video_folder)} --fps {int(float(clip["fps"]))} --z_val 0.375 --device {device} --no-screen --gaze_vector_file {os.path.join(parsed_folder_name, text_files, name + "txt")}'
+    cmd =  f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --video {os.path.join(parsed_folder_name, videos, name + video_format)} -o {os.path.join(parsed_folder_name, split_video_folder)} --fps {int(float(clip["fps"]))} --z_val 0.375 --device {device} --no-screen --gaze_vector_file {os.path.join(parsed_folder_name, text_files, name + ".txt")}'
     os.system(cmd)
+    break
     
     
