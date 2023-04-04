@@ -2,6 +2,7 @@ import os
 import torch
 import time
 from tqdm import tqdm
+import json
 
 if torch.cuda.is_available():
     print('Using GPU')
@@ -64,12 +65,35 @@ else:
 # executionTime = (time.time() - startTime)
 # print('Execution time in seconds for algo: ' + str(executionTime))
 
-folder = 'youtube_data'
-for f in tqdm(os.listdir(folder)):
-    os.rename(os.path.join(folder, f), os.path.join(folder, f.replace(" ", "_")))
-    f = f.replace(" ", "_")
-    print(f)
-    if os.path.isfile(os.path.join("youtube_data_gaze_direction", f)): # or os.path.isfile(os.path.join('../gazeEstimation/assets/results/', f[:-3] + "avi")):
+# folder = 'youtube_data'
+# for f in tqdm(os.listdir(folder)):
+#     os.rename(os.path.join(folder, f), os.path.join(folder, f.replace(" ", "_")))
+#     f = f.replace(" ", "_")
+#     print(f)
+#     if os.path.isfile(os.path.join("youtube_data_gaze_direction", f)): # or os.path.isfile(os.path.join('../gazeEstimation/assets/results/', f[:-3] + "avi")):
+#         continue
+#     cmd =  f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --video {os.path.join(folder, f)} -o ../gazeEstimation/assets/results/ --fps 20 --z_val 0.375 --device {device} --no-screen --gaze_vector_file {os.path.join("youtube_data_gaze_direction", f[:-3] + "txt")}'
+#     os.system(cmd)
+
+
+text_files = 'split_text_files'
+videos = 'split_videos'
+parsed_folder_name = 'parsed_data'
+metadata_file_path = 'parsed_data/metadata.json'
+video_format = '.mp4' 
+split_video_folder = 'split_video_gaze'
+
+if not os.path.isdir(os.path.join(parsed_folder_name, split_video_folder)):
+    os.mkdir(os.path.join(parsed_folder_name, split_video_folder))
+
+metadata = json.load(open(metadata_file_path, 'r'))
+
+# Get text file name and video name and run gaze estimation algo
+for clip in tqdm(metadata['data']):
+    name = clip['name'].replace(" ", "_") + video_format
+    if os.path.isfile(os.path.join(parsed_folder_name, split_video_folder, name)):
         continue
-    cmd =  f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --video {os.path.join(folder, f)} -o ../gazeEstimation/assets/results/ --fps 20 --z_val 0.375 --device {device} --no-screen --gaze_vector_file {os.path.join("youtube_data_gaze_direction", f[:-3] + "txt")}'
+    cmd =  f'python3 ../gazeEstimation/ptgaze/__main__.py --mode eth-xgaze --video {os.path.join(parsed_folder_name, videos, name + video_format)} -o {os.path.join(parsed_folder_name, split_video_folder)} --fps {int(float(clip["fps"]))} --z_val 0.375 --device {device} --no-screen --gaze_vector_file {os.path.join(parsed_folder_name, text_files, name + "txt")}'
     os.system(cmd)
+    
+    
